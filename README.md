@@ -15,7 +15,7 @@ https://invoice-generator-react.netlify.app/ -->
 ### Installation
 
 ```
-git clone [my repository](https://github.com/Nutika16/Invoice-Generator)
+git clone https://github.com/Nutika16/Invoice-Generator
 
 npm install
 
